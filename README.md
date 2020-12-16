@@ -1,2 +1,2 @@
-# Papers
-This is some of my papers
+# Pekan Analis Statistika
+This is analysis that I submit on PAS competition
